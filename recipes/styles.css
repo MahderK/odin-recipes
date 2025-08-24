@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif, monospace, 'Courier New';
+    background-color: rgb(240, 177, 62);
+}
+
+.title{
+    width: fit-content;
+    height: 55px;
+    background-color: rgb(238, 138, 25);
+    font-size: 35px;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 12px;
+}
